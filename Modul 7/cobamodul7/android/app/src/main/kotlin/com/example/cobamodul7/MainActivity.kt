@@ -1,0 +1,5 @@
+package com.example.cobamodul7
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
